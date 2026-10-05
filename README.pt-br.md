@@ -10,7 +10,7 @@ Com mais de 8 anos de experiência profissional, minha jornada sempre foi movida
 
 Combinando minha bagagem em design com a área de dados, eu traduzo conjuntos de dados complexos em insights estratégicos e visualmente intuitivos que direcionam tomadas de decisão de negócios.
 
-Aqui você pode explorar alguns dos meus projetos técnicos. Não se esqueça de acessar o meu **[Site de Portfólio Completo](LINK_DO_SEU_PORTFOLIO_AQUI)** para uma visão completa do meu trabalho! ✨
+Aqui você pode explorar alguns dos meus projetos técnicos. Não se esqueça de acessar o meu **[Portfólio](https://angelacolombo.notion.site/ngela-Colombo-3e3ea745fe8480eba5c7c53a7fb53ede)** para uma visão completa do meu trabalho! ✨
 
 ---
 
