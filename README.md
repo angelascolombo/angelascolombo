@@ -10,7 +10,7 @@ With over 8 years of professional experience, my journey has always been driven 
 
 With my design background, I translate complex datasets into strategic, visually intuitive insights that drive business decisions.
 
-Here, you can explore some of my technical projects. Don't forget to check out my **[Full Portfolio Website](LINK_DO_SEU_PORTFOLIO_AQUI)** for a complete look at my work! ✨
+Here, you can explore some of my technical projects. Don't forget to check out my **[Portfolio](https://angelacolombo.notion.site/Angela-Colombo-3efea745fe848060aa16f91a400fe91b)** for a complete look at my work! ✨
 
 
 ---
