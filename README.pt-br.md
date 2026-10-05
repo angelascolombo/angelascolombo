@@ -4,11 +4,7 @@
 
 ---
 
-Meu nome é Ângela, sou uma **Analista de Dados & Designer** e moro no Brasil.
-
-Com mais de 8 anos de experiência profissional, minha jornada sempre foi movida pela curiosidade e pela paixão por resolver problemas complexos, o que me levou naturalmente ao mundo da Análise de Dados. 
-
-Combinando minha bagagem em design com a área de dados, eu traduzo conjuntos de dados complexos em insights estratégicos e visualmente intuitivos que direcionam tomadas de decisão de negócios.
+Meu nome é Ângela e tenho mais de 8 anos de experiência profissional, movida pela curiosidade e pela paixão por resolver problemas complexos.
 
 Aqui você pode explorar alguns dos meus projetos técnicos. Não se esqueça de acessar o meu **[Portfólio](https://angelacolombo.notion.site/ngela-Colombo-3e3ea745fe8480eba5c7c53a7fb53ede)** para uma visão completa do meu trabalho! ✨
 
@@ -20,11 +16,5 @@ Aqui você pode explorar alguns dos meus projetos técnicos. Não se esqueça de
 * **Design & UX/UI:** Figma, Adobe XD, Photoshop e o pacote Creative Cloud
 
 ---
-
-### Um Pouco Sobre Mim
-
-* 🥋 Treinei Kung Fu por 8 anos (disciplina e foco se tornaram parte do meu DNA).
-* 🎪 Fora das telas, você pode me encontrar praticando tecido acrobático.
-* 🔍 Sou obcecada por descobrir como as coisas *realmente* funcionam.
 
 📫 **Vamos nos conectar!** [LinkedIn](https://www.linkedin.com/in/angelascolombo/)
